@@ -1,0 +1,14 @@
+# Dépendances Node (réinstallables avec `npm install`)
+node_modules/
+
+# Fichiers temporaires de PowerPoint / Office
+~$*
+
+# Anciennes versions du PowerPoint, remplacées par Presentation_Economie.pptx
+Pauvrete_France.pptx
+Presentation_Economie_tableau_de_bord.pptx
+
+# Divers
+.DS_Store
+Thumbs.db
+cache/
