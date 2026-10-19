@@ -1,5 +1,7 @@
 # Présentation d'économie — Conjoncture et revue de presse
 
+*15-min economics presentation: French macroeconomic dashboard (magic square, euro-area comparison) and press review of three debates (poverty, Zucman wealth tax, funded pensions). Script-generated PowerPoint, verified sources.*
+
 Présentation de 15 minutes en trois parties : tableau de bord de la conjoncture française, trois sujets d'actualité (pauvreté, taxe Zucman, retraites et capitalisation), puis l'impact de l'actualité sur les indicateurs.
 
 ## Fichiers
